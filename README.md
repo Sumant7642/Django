@@ -1,4 +1,4 @@
-# Django
+# Secure file sharing using Django
 
 Many Users will store the files in the server and share with other users but the information in the server is not encrypted so it cannot be secure so, we proposed this web application. In this project, we can encrypt the user’s uploaded files 
 and we can also generate a secret key if any user requests for the file then we can verify and respond to their requests. Using the key, he can access the file. 
