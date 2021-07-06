@@ -1,0 +1,30 @@
+k1 = a[:len(a)//2]
+    k2 = a[len(a)//2:]
+    print(k1)
+
+k1=a[:len(plainText)//2]
+    k2=a[len(plainText)//2:]
+    print(k2)
+
+
+for i in InitialPermutation:
+    a=(str(plainText[i-1]))
+    k1 = a[:len(a)//2]
+    k2 = a[len(a)//2:]
+    print(k2)
+
+
+index=[1,5,2,0,3,7,4,6]
+array =np.array([1,0,0,1,0,1,1,1])
+print(array[index])
+
+
+array = []
+n = int(input("Enter the list size : "))
+
+print("\n")
+for i in range(0, n):
+    print("Enter number at location", i, ":")
+    item = int(input())
+    array.append(item)
+print("User List is ", array)

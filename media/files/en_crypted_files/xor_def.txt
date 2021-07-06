@@ -1,0 +1,19 @@
+def xor(k1, After_ep, n): 
+    ans = "" 
+      
+    # Loop to iterate over the 
+    # Binary Strings 
+    for i in range(n): 
+          
+        # If the Character matches 
+        if (k1[i] == After_ep[i]):  
+            ans += "0"
+        else:  
+            ans += "1"
+    return ans  
+  
+# Driver Code 
+if __name__ == "__main__": 
+    n = len(k1) 
+    c = xor(k1, After_ep, n) 
+    print(c) 

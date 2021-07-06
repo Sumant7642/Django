@@ -1,0 +1,11 @@
+23-->crypto
+23-->math
+24-->cn
+19-->os
+96285807
+links::
+https://cofounderstown.com/starting-cyber-security-10-common-mistakes-916cd
+
+https://wheresmykeyboard.com/2016/07/hacking-sites-ctfs-wargames-practice-hacking-skills/
+
+https://www.hackertips.xyz/2019/08/the-two-big-mistakes-that-beginners.html
