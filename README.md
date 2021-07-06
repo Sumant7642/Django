@@ -8,9 +8,9 @@ The user will register into the application by providing all the necessary detai
 for a secret key from the other users and we can respond and the key will be sent to his registered email. Using that key, he can download the file and view the information.
 
 Technologies Used: 
-Python language 
-Django framework 
-Sqlite database 
-Aes algorithm for ecryption and decryption 
-Bootstrap,html,css for styling 
-Javascript for the aes operatio
+1)Python language 
+2)Django framework 
+3)Sqlite database 
+4)Aes algorithm for ecryption and decryption 
+5)Bootstrap,html,css for styling 
+6)Javascript for the aes operatio
