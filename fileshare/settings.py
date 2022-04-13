@@ -27,7 +27,7 @@ SECRET_KEY = 'm(&&g#n8=6+t*p^8q49j=b7fw_934ymsg%lc^63ey)noy8tmwy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = [securefilesharing-django.azurewebsites.net]
 
 
 # Application definition
